@@ -1,3 +1,29 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">- Fullstack Developer<br>- IT Analyst</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
